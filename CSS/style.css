@@ -1,0 +1,46 @@
+* {
+    font-family: arial, helvetica, sans-serif;
+    font-size: 16px;
+}
+
+body {
+    background-color: rgb(236, 243, 241);
+}
+
+
+ main {
+    background-color: rgb(245, 212, 212);
+    width: 560px;
+    margin: auto;
+    padding: 10px;
+    box-shadow: 3px 3px 5px rgba(250, 248, 248, 0.452);
+}
+h1 {
+    font-size: 2em;
+    color: rgb(0, 0, 0);
+}
+
+th{ background-color: rgb(0, 58, 58);
+     color: rgb(255, 255, 255);
+   
+
+}
+h2 {
+    font-size: 1.5em;
+    color: rgb(0, 0, 0);
+}
+
+img.lado {
+    float: right;
+}
+
+table {
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+}
+
+a:hover {
+    text-decoration: underline;
+    color: rgb(233, 233, 241);
+}
